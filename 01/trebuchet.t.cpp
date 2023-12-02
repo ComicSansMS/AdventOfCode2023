@@ -2,7 +2,7 @@ import trebuchet;
 
 #include <catch.hpp>
 
-TEST_CASE("Calorie Counting")
+TEST_CASE("Trebuchet")
 {
     char const sample_input1[] =
         R"(1abc2
